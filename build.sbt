@@ -12,3 +12,4 @@ libraryDependencies += "org.scalaj" %% "scalaj-http" % "2.4.2"
 
 libraryDependencies += "org.json4s" %% "json4s-jackson" % "3.7.0-M1"
 
+
